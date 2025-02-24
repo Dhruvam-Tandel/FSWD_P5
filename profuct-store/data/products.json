@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Smartphone",
+        "category": "electronics",
+        "price": 299.99,
+        "rating": 4.5
+    },
+    {
+        "id": 2,
+        "name": "Laptop",
+        "category": "electronics",
+        "price": 899.99,
+        "rating": 4.7
+    },
+    {
+        "id": 3,
+        "name": "Coffee Maker",
+        "category": "home-appliance",
+        "price": 49.99,
+        "rating": 4.2
+    },
+    {
+        "id": 4,
+        "name": "Headphones",
+        "category": "electronics",
+        "price": 99.99,
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "name": "Blender",
+        "category": "home-appliance",
+        "price": 29.99,
+        "rating": 4.1
+    },
+    {
+        "id": 6,
+        "name": "Smart Watch",
+        "category": "wearables",
+        "price": 199.99,
+        "rating": 4.6
+    },
+    {
+        "id": 7,
+        "name": "Tablet",
+        "category": "electronics",
+        "price": 399.99,
+        "rating": 4.4
+    },
+    {
+        "id": 8,
+        "name": "Refrigerator",
+        "category": "home-appliance",
+        "price": 599.99,
+        "rating": 4.8
+    },
+    {
+        "id": 9,
+        "name": "Gaming Console",
+        "category": "electronics",
+        "price": 499.99,
+        "rating": 4.9
+    },
+    {
+        "id": 10,
+        "name": "Running Shoes",
+        "category": "footwear",
+        "price": 79.99,
+        "rating": 4.3
+    }
+]
